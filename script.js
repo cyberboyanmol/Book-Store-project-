@@ -170,4 +170,4 @@ center:[79.489738,29.021038],
 zoom:12,
 });
 
-document.addEventListener('contextmenu', event => event.preventDefault());
+// document.addEventListener('contextmenu', event => event.preventDefault());
