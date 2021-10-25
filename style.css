@@ -204,7 +204,7 @@ section {
 .bottom-navbar a {
   font-size: 2.5rem;
   padding: 2rem;
-  color: #fff;
+  color: #000;
 }
 
 .bottom-navbar a:hover {
